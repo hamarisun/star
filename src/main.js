@@ -15,7 +15,7 @@ fetch(`https://api.nasa.gov/planetary/apod?api_key=${API_KEY}`)
     } else {
         media = `<video src="${data.url}" controls></video>`;
     }
-    console.log(data);
+    
     document.querySelector("#app").innerHTML = `
         <h1>nasa curently expiriences a problem with APS what couses only the explenation to be diplaied :| </h1>
         <h1>${data.title}</h1>
