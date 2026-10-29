@@ -345,35 +345,7 @@ function createWidget(type) {
         </div>
       </section>
     `,
-
-    weather: `
-      <section class="window weather-window" data-widget="weather">
-        <div class="window-bar">
-          <span class="window-title">Weather</span>
-          <button class="close-widget" aria-label="Close weather">×</button>
-        </div>
-
-        <div class="window-content">
-          <p class="weather-status">
-            Enter a city to check the weather.
-          </p>
-
-          <form class="weather-form">
-            <input
-              class="city-input"
-              type="text"
-              placeholder="Enter your city"
-              autocomplete="off"
-            />
-
-            <button type="submit">Check</button>
-          </form>
-
-          <div class="weather-result"></div>
-        </div>
-      </section>
-    `,
-
+    
     notes: `
       <section class="window notes-window" data-widget="notes">
         <div class="window-bar">
