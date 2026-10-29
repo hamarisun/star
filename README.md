@@ -21,7 +21,7 @@ To learn to code and to have fun while coding in CSS.
 
 ![imige](./pick.png)
 
-#Languages used 
+# Languages used 
 
 - CSS
 - JavaScript
