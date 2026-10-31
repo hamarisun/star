@@ -275,7 +275,7 @@ async function setupApod(windowElement) {
 );
 
     if (!response.ok) {
-      throw new Error("Could not load NASA APOD. Try reloading the page( even few times. it works)");
+      throw new Error("could not load NASA APOD,<br> Try reloading the page even few times it works.");
     }
 
     const data = await response.json();
@@ -323,7 +323,7 @@ async function setupApod(windowElement) {
 
     } else {
       status.textContent =
-        "NASA APOD is unavailable.";
+        "NASA APOD is unavailable. Try again";
     }
 
   } catch (error) {
