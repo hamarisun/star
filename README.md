@@ -2,7 +2,7 @@
 
 Board you can use to organise and manage things.
 
-![try it](https://hamarisun.github.io/star/)
+[try it !](https://hamarisun.github.io/star/)
 
 # How it looks
 
