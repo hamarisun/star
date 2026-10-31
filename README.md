@@ -1,25 +1,30 @@
 ## Board 
 
-It is a board you stick notes to it.
-Nothing more nothing less.
+Board you can use to organise and manage things.
+
+![try it](https://hamarisun.github.io/star/)
+
+# How it looks
+
+![imige](./pick.png)
 
 # Why this project ?
 
 To learn to code and to have fun while coding in CSS.
 
+
 * usually JavaScript is the hardest for me *
+
 
 # Functions :
 
 - Clock
 - Notes
-- Daily space pictures
+- Daily space picture
 
-* Little basic. I know *
+# How to use this 
 
-# How it looks
-
-![imige](./pick.png)
+open the website click on the +sicky note button and add anything you want.
 
 # Languages used 
 
