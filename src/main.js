@@ -275,7 +275,7 @@ async function setupApod(windowElement) {
 );
 
     if (!response.ok) {
-      throw new Error("Could not load NASA APOD.");
+      throw new Error("Could not load NASA APOD. Try reloading the page( even few times. it works)");
     }
 
     const data = await response.json();
