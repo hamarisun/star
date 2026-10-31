@@ -485,7 +485,7 @@ widgetMenu.addEventListener("pointerdown", (event) => {
 
 resetBtn.addEventListener("click", () => {
   localStorage.removeItem("layout");
-  localStorage.removeItem("welcome");
+  localStorage.removeItem(".welcome-window");
   localStorage.removeItem("notes");
   localStorage.removeItem("notes-list");
 
