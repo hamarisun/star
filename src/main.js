@@ -43,6 +43,7 @@ app.innerHTML = `
       <button class="widget-option" data-add="clock">Clock</button>
       <button class="widget-option" data-add="notes">Notes</button>
       <button class="widget-option" data-add="welcome">Welcome card</button>
+      <button class="widget-option" data-add="apod">NASA daily</button>
     </div>
   </div>
 `;
@@ -382,7 +383,7 @@ function createWidget(type) {
     apod: `
       <section class="window apod-window" data-widget="apod">
         <div class="window-bar">
-          <span class="window-title">NASA APOD</span>
+          <span class="window-title">NASA daily</span>
           <button class="close-widget" aria-label="Close NASA APOD">×</button>
         </div>
 
