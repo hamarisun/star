@@ -43,7 +43,7 @@ app.innerHTML = `
       <button class="widget-option" data-add="clock">Clock</button>
       <button class="widget-option" data-add="notes">Notes</button>
       <button class="widget-option" data-add="welcome">Welcome card</button>
-      <button class="widget-option" data-add="apod">NASA apod</button>
+      <button class="widget-option" data-add="apod">NASA APOD</button>
     </div>
   </div>
 `;
