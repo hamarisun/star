@@ -20,7 +20,7 @@ To learn to code and to have fun while coding in CSS.
 
 - Clock
 - Notes
-- Daily space picture
+- Daily space picture ( not available right now, technical issues :[ )
 
 # How to use this 
 
