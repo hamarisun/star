@@ -12,6 +12,8 @@ Board you can use to organise and manage things.
 
 To learn to code and to have fun while coding in CSS.
 
+* learning how to use api and vite for the first time, and continuing CSS and  JavaScript *
+
 
 * usually JavaScript is the hardest for me *
 
