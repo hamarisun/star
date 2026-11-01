@@ -28,6 +28,8 @@ To learn to code and to have fun while coding in CSS.
 
 open the website click on the +sicky note button and add anything you want.
 
+place it where ever you would like!
+
 # Languages used 
 
 - CSS
