@@ -43,7 +43,6 @@ app.innerHTML = `
       <button class="widget-option" data-add="clock">Clock</button>
       <button class="widget-option" data-add="notes">Notes</button>
       <button class="widget-option" data-add="welcome">Welcome card</button>
-      <button class="widget-option" data-add="apod">NASA daily</button>
     </div>
   </div>
 `;
@@ -465,13 +464,7 @@ widgetMenu.addEventListener("click", (event) => {
     `.window[data-widget="${widgetType}"]`
   );
 
-  if (existing) {
-    existing.classList.remove("hidden");
-    bringToFront(existing);
-    widgetMenu.classList.add("hidden");
-    saveLayout();
-    return;
-  }
+
 
   createWidget(widgetType);
   widgetMenu.classList.add("hidden");
